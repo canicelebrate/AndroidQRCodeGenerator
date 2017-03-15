@@ -2,6 +2,8 @@
 Simple demo to generate QR code image based on zxing    
 基于zxing库动态生成条码图片的简单android示例
 
+![效果](https://github.com/canicelebrate/AndroidQRCodeGenerator/blob/master/screenshot.png)
+
 ## 参考资源  
 1、zxing官网   
 https://github.com/zxing/zxing/wiki/Getting-Started-Developing
